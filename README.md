@@ -9,4 +9,18 @@ Criar a classe ContaBancária, declarando seus atributos, funções, métodos e 
 3. Execute o arquivo `conta.py`: 
     ```bash
     python conta.py
-    ```
+    ``` 
+    
+## Exemplo de saída 
+```
+Nome do titular: Amanda. Saldo: 0.0.
+Nome do titular: Raimundo. Saldo: 0.0.
+Nome do titular: Amanda. Saldo: 22000. 
+```
+
+## Estrutura da Classe
+- **Atributos:**
+    - `titular`: nome do titular da conta. 
+    - `saldo`: saldo da conta. 
+- **Métodos:** 
+    - `exibir_saldo()`: exibe o titular e o saldo da conta. 
